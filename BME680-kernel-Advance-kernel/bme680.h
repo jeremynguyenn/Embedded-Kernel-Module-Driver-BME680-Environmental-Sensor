@@ -1,4 +1,4 @@
-```
+
 #ifndef _BME680_H_
 #define _BME680_H_
 
@@ -215,4 +215,3 @@ int bme680_ipc_init(struct bme680_data *data);
 void bme680_ipc_cleanup(struct bme680_data *data);
 
 #endif /* _BME680_H_ */
-```
